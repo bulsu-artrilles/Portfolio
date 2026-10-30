@@ -34,7 +34,7 @@ a:focus-visible, .btn:focus-visible {
   outline-offset: 3px;
 }
 
-/* ---------- Top bar ---------- */
+/*Top bar*/
 .topbar {
   position: sticky;
   top: 0;
@@ -68,7 +68,7 @@ a:focus-visible, .btn:focus-visible {
 
 .topbar nav a:hover { color: var(--white); }
 
-/* ---------- Hero ---------- */
+/*Hero*/
 .hero {
   background: var(--black);
   color: var(--white);
